@@ -40,7 +40,7 @@ if (produit_id=="1"){
   };
 
   function imagebase() {
-      imageObj.src = "/Site/images/ps5/ps5.png";
+      imageObj.src = "images/ps5/ps5.png";
       imageObj.onload = event => {
           context.drawImage(imageObj,0, 0,canvas.width,canvas.height);
       };
