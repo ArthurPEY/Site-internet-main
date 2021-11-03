@@ -770,7 +770,7 @@ else if (produit_id=="3"){
 else{
   document.title="Perdu"
   document.getElementById("1").style.display="block"
-  document.getElementById("1").innerHTML="<br> Ta rien à faire ici !"
+  document.getElementById("1").innerHTML="<br> Ta rien à faire ici ! <br><br> <a href=index.html style='font-style: oblique;'>Retour à la page d'accueil</a>"
 }
 
 
