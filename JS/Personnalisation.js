@@ -526,7 +526,7 @@ else if (produit_id=="3"){
     context.drawImage(imageObj,0, 0,canvas.width,canvas.height);
   }
   
-  p1=p2=p3=p4=p5=0;
+  p1=p2=p3=p4=p5=p6=0;
   
   var jd;
   savejd="noir";

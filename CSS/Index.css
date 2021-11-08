@@ -34,7 +34,7 @@ html
 }
 
 /* filtres*/
-/* mdif 26/10*/
+
 #myBtnContainer{
   justify-content: center;
   display: flex;
@@ -196,7 +196,7 @@ body {
 }
 
 
-/* a partir de la c'est le code pour la page de contact*/
+/*code pour la page de contact*/
 
 .conteiner_principal {
   display: flex;

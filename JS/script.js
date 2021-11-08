@@ -75,3 +75,8 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 //fin du code filtre
+
+//code envoie mail
+function sendmail(){
+  textmail = document.getElementById("btmail").innerText
+}
